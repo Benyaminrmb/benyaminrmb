@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi, I am Benyamin 👋
 
-<!--
-**Benyaminrmb/benyaminrmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail Badge](https://img.shields.io/badge/-benyaminrmb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:benyaminrmb@gmail.com)](mailto:benyaminrmb@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-BenyaminRmb-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/benyaminrmb/)](https://linkedin.com/in/benyaminrmb/) 
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/benyaminrmb/)](https://t.me/benyaminrmb/)
+</p>
 
-Here are some ideas to get you started:
+## My Github Stats:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align=left> <img src=https://komarev.com/ghpvc/?username=benyaminrmb alt=benyaminrmb /> <b>Since september 2020</b></p>
+
+[![github stats](https://github-readme-stats.vercel.app/api?username=benyaminrmb)](https://github.com/benyaminrmb/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benyaminrmb&layout=compact)](https://github.com/benyaminrmb/github-readme-stats)
