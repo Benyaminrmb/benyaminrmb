@@ -1,13 +1,39 @@
-# Hi, I am Benyamin 👋
+<h1 align="center">Hi 👋, I'm Benyamin Bolhasanii</h1>
+<h3 align="center">full-stack web developer from Iran</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-benyaminrmb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:benyaminrmb@gmail.com)](mailto:benyaminrmb@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-BenyaminRmb-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/benyaminrmb/)](https://linkedin.com/in/benyaminrmb/) 
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/benyaminrmb/)](https://t.me/benyaminrmb/)
+<h5 align="center">aka:
+<a href="https://benyaminrmb.ir">BenyaminRmb</a>
+</h5>
+
+<p>
+Hi there! I'm Ben a full-stack developer with a caffeine addiction and a passion for clean code. I specialize in PHP, Laravel, MySQL, and more. Explore my repos to see what I've been up to. Let's build something awesome together!
 </p>
 
-## My Github Stats:
+<h3 align="left">Languages and tools:</h3>
 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=benyaminrmb alt=benyaminrmb /> <b>Since september 2020</b></p>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=benyaminrmb)](https://github.com/benyaminrmb/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benyaminrmb&layout=compact)](https://github.com/benyaminrmb/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,postman,js,ts,nuxt,vue,github,git,tailwind,bootstrap)](https://skillicons.dev)
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p style="display: flex;gap:15px;" align="left">
+<a href="https://twitter.com/benyaminrmb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrpaziresh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/benyaminrmb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrpaziresh" height="30" width="40" /></a>
+<a href="https://t.me/benyaminrmb/" target="blank"><img style="width: 30px;height: 30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/768px-Telegram_logo.svg.png?20220101141644" alt="nrpaziresh" height="30" width="40" /></a>
+<a href="mailto:benyaminrmb@gmail.com" target="blank"><img style="width: 30px;height: 30px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Gmail_2020.png/640px-Gmail_2020.png" alt="nrpaziresh" height="30" width="40" /></a>
+</p>
+
+
+
+<h3 align="left">Github status:</h3>
+
+
+<a href="https://github.com/benyaminrmb#gh-light-mode-only">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=benyaminrmb&fire=pink" alt="My GitHub Stats" />
+</a>
+ 
+
+<a href="https://github.com/benyaminrmb#gh-light-mode-only">
+ <img src="https://github-readme-stats.vercel.app/api?username=benyaminrmb&count_private=true&show_icons=true" alt="My GitHub Stats" />
+</a> 
