@@ -6,7 +6,7 @@
 </h5>
 
 <p>
-Hi there! I'm Ben a full-stack developer with a caffeine addiction and a passion for clean code. I specialize in PHP, Laravel, MySQL, and more. Explore my repos to see what I've been up to. Let's build something awesome together!
+Hi there! I'm Ben a full-stack developer with a caffeine addiction and a passion for clean code. I specialize in PHP, Laravel, MySQL, and more. Explore my repos to see what I've been up to.
 </p>
 
 <h3 align="left">Languages and tools:</h3>
