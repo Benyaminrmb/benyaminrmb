@@ -7,7 +7,7 @@
 
 <p>
 Hi there! I'm Benyamin!
-a <strong>Laravel</strong> who's intrested in vue js! specialize in PHP, Laravel, MySQL, and more.
+a <strong>Laravel</strong> developer who's intrested in vue js! specialize in PHP, Laravel, MySQL, and more.
 </p>
 
 <h3 align="left">Languages and tools:</h3>
