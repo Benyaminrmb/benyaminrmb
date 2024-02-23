@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Benyamin Bolhassani</h1>
-<h3 align="center">full-stack web developer from Iran</h3>
+<h3 align="center">Laravel developer from Iran</h3>
 
 <h5 align="center">aka:
 <a href="https://benyaminrmb.ir">BenyaminRmb</a>
 </h5>
 
 <p>
-Hi there! I'm Ben a full-stack developer. I specialize in PHP, Laravel, MySQL, and more. Explore my repos to see what I've been up to.
+Hi there! I'm Benyamin!
+a <strong>Laravel</strong> who's intrested in vue js! specialize in PHP, Laravel, MySQL, and more.
 </p>
 
 <h3 align="left">Languages and tools:</h3>
