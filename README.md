@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer;Team+Lead+%7C+6%2B+Years+Experience;Building+Scalable+Web+Platforms;10k%2B+Users+Served" alt="Typing SVG" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-BentoHub-4F46E5?style=for-the-badge&logo=safari&logoColor=white)](https://bentohub.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benyaminrmb/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benyaminrmb@gmail.com)
 
