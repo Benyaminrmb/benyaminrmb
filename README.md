@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My Digital Workshop
 
-### Benyamin Rahmati
+### Benyamin Bolhassani
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer;Team+Lead+%7C+6%2B+Years+Experience;Building+Scalable+Web+Platforms;10k%2B+Users+Served" alt="Typing SVG" />
 
