@@ -1,188 +1,82 @@
 <div align="center">
 
-# 👋 Welcome to My Digital Workshop
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:0B1220,40:0F172A,70:1D4ED8,100:38BDF8&text=Benyamin%20Bolhassani&fontColor=E2E8F0&fontSize=52&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20Team%20Lead&descAlignY=57" alt="Benyamin Bolhassani banner" />
 
-### Benyamin Bolhassani
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=I+build+scalable+web+platforms;6%2B+years+in+backend%2C+frontend%2C+and+DevOps;Shipping+clean+architecture+for+real+business+impact)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Engineer;Team+Lead+%7C+6%2B+Years+Experience;Building+Scalable+Web+Platforms;10k%2B+Users+Served" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benyaminrmb/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benyaminrmb@gmail.com)
-
-</div>
-
----
-
-## 🎯 About Me
-
-```typescript
-const benyamin = {
-    role: "Full-Stack Engineer & Team Lead",
-    experience: "6+ years",
-    location: "🌍 Remote",
-    focus: ["Scalable Architecture", "High-Performance Systems", "Team Leadership"],
-    currentlyLearning: "Go (Golang)",
-    openToWork: true,
-    portfolio: {
-        name: "Eventoment",
-        url: "https://eventoment.com",
-        impact: "10,000+ active users",
-        role: "Team Lead & Architect"
-    }
-};
-```
-
-<div align="center">
-
-### 🌟 **Building platforms that scale, leading teams that deliver**
-
-Full-Stack Engineer with a proven track record of architecting high-performance web applications. From database optimization to pixel-perfect interfaces, I thrive across the entire technology stack.
+<a href="https://www.linkedin.com/in/benyaminrmb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:benyaminrmb@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://eventoment.com"><img src="https://img.shields.io/badge/Live_Project-Eventoment-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Eventoment" /></a>
+<a href="https://t.me/benyaminrmb/"><img src="https://img.shields.io/badge/Telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 
 </div>
 
----
+## Profile
+Full-stack engineer and team lead focused on building reliable, high-performance products from architecture to production.
 
-## 🚀 Spotlight: Eventoment
-
-<div align="center">
-
-### **[Eventoment.com](https://eventoment.com)** - Social Event Management Platform
-
-*Team Lead & Full-Stack Architect*
-
-</div>
+I work best where product thinking, engineering quality, and delivery speed all matter.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎯 Impact**
-- 🚀 **10,000+ active users**
-- ⚡ **40% performance boost** through optimization
-- 🔍 Real-time debugging with Laravel Telescope
-- 📈 Scaled infrastructure to handle growing demand
+### Snapshot
+- 6+ years professional experience
+- Team lead for a platform with 10,000+ active users
+- Strong in Laravel, PostgreSQL, Nuxt.js, TypeScript, Docker
+- Building deeper backend expertise with Go
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🛠️ Tech Leadership**
-- 👥 Led cross-functional development team
-- 🏗️ Architected full-stack solution
-- 💾 Backend: Laravel + PostgreSQL
-- 🎨 Frontend: Nuxt.js + TypeScript
-- 🔄 CI/CD pipeline implementation
+### What I Optimize For
+- Scalable architecture
+- API and database performance
+- Clean delivery pipelines and CI/CD
+- Team velocity and code quality
 
 </td>
 </tr>
 </table>
 
----
+## Featured Project
+### [Eventoment](https://eventoment.com)
+**Role:** Team Lead & Full-Stack Architect
 
-## 💼 Core Competencies
+- Scaled usage to 10,000+ active users
+- Improved platform performance by ~40%
+- Added robust debugging/observability workflows (Laravel Telescope)
+- Led cross-functional implementation and release flow
 
+## Tech
 <div align="center">
 
-| 🏗️ **Architecture** | ⚡ **Performance** | 👥 **Leadership** | 🎯 **Full-Stack** |
-|:---:|:---:|:---:|:---:|
-| Scalable Systems | Query Optimization | Team Management | End-to-End Dev |
-| API Design | Caching Strategies | Code Reviews | DevOps Integration |
-| Microservices | Load Balancing | Mentoring | CI/CD Pipelines |
+<img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,redis,js,ts,vue,nuxt,react,docker,linux,github,git,postman,go&perline=8" alt="Tech stack icons" />
 
 </div>
 
----
-
-## 🛠️ Technology Arsenal
-
+## GitHub Analytics
 <div align="center">
 
-### **Backend Engineering**
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=benyaminrmb&show_icons=true&count_private=true&hide_border=true&rank_icon=github&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&bg_color=0B1220" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=benyaminrmb&hide_border=true&background=0B1220&stroke=1E293B&ring=38BDF8&fire=0EA5E9&currStreakLabel=E2E8F0&sideNums=E2E8F0&currStreakNum=E2E8F0&dates=94A3B8&sideLabels=E2E8F0" alt="GitHub streak" />
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### **Frontend Development**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### **DevOps & Infrastructure**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### **Currently Exploring**
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-*Expanding backend capabilities with high-performance systems programming*
-
-<br/>
-
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,postgres,mysql,redis,docker,linux,js,ts,vue,nuxt,react,tailwind,bootstrap,github,git,postman&perline=9)](https://skillicons.dev)
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=benyaminrmb&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=0EA5E9&area=true&hide_border=true" alt="Contribution graph" />
 
 </div>
 
----
+## Open To
+- Remote full-stack engineering roles
+- Technical leadership opportunities
+- Architecture and performance consulting
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=benyaminrmb&show_icons=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=333&bg_color=ffffff" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=benyaminrmb&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=ffffff&stroke=333&ring=3B82F6&fire=F97316&currStreakLabel=333&sideNums=333&currStreakNum=333&dates=666&sideLabels=333" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benyaminrmb&layout=compact&hide_border=true&title_color=3B82F6&text_color=333&bg_color=ffffff" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=benyaminrmb&theme=github-compact&hide_border=true&bg_color=ffffff&color=333&line=3B82F6&point=F97316" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🤝 Let's Build Something Amazing
+## Contact
+- LinkedIn: [linkedin.com/in/benyaminrmb](https://www.linkedin.com/in/benyaminrmb/)
+- Email: [benyaminrmb@gmail.com](mailto:benyaminrmb@gmail.com)
+- Telegram: [t.me/benyaminrmb](https://t.me/benyaminrmb/)
 
 <div align="center">
 
-### **💼 Open to Remote Opportunities**
-
-Full-Stack Engineering Roles • Team Lead Positions • Technical Architecture • Consulting
-
-<br/>
-
-<a href="https://www.linkedin.com/in/benyaminrmb/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://twitter.com/benyaminrmb" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-<a href="https://t.me/benyaminrmb/" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-Message_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-<a href="mailto:benyaminrmb@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=benyaminrmb&label=Profile%20Views&color=3B82F6&style=for-the-badge" alt="Profile views" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 "Clean code, scalable architecture, products that matter"
-
-<sub>⭐️ From [benyaminrmb](https://github.com/benyaminrmb) | Built with passion and precision</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=benyaminrmb&label=Profile%20Views&color=0ea5e9&style=flat-square)
 
 </div>
